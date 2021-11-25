@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    "\\01_OOP"
+    "",
+    "\\01_OOP",
+    "\\01_OOP\\E2",
+    "\\01_OOP\\E2\\DN_1.1_Hector_Jaramillo_v1.0",
+    "\\01_OOP\\E2\\DN_1.1_Hector_Jaramillo_v1.0\\AudioManager"
   ],
+  "SelectedNode": "\\01_OOP\\E2\\DN_1.1_Hector_Jaramillo_v1.0\\AudioManager\\Automovil.cs",
   "PreviewInSolutionExplorer": false
 }
