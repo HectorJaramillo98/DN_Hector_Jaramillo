@@ -1,0 +1,5 @@
+C:\Users\hecto\source\repos\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\hecto\source\repos\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\hecto\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\hecto\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb

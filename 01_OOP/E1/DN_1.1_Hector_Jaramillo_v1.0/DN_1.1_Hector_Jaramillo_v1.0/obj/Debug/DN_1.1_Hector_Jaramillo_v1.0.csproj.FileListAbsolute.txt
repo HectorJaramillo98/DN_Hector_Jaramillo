@@ -1,0 +1,11 @@
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\bin\Debug\DN_1.1_Hector_Jaramillo_v1.0.exe.config
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\bin\Debug\DN_1.1_Hector_Jaramillo_v1.0.exe
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\bin\Debug\DN_1.1_Hector_Jaramillo_v1.0.pdb
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\bin\Debug\AudioManager.dll
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\bin\Debug\AudioManager.pdb
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\obj\Debug\DN_1.1_Hector_Jaramillo_v1.0.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\obj\Debug\DN_1.1_Hector_Jaramillo_v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\obj\Debug\DN_1.1_Hector_Jaramillo_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\obj\Debug\DN_1.1_Hector_Jaramillo_v1.0.csproj.CopyComplete
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\obj\Debug\DN_1.1_Hector_Jaramillo_v1.0.exe
+C:\Users\hecto\source\repos\DN_1.1_Hector_Jaramillo_v1.0\DN_1.1_Hector_Jaramillo_v1.0\obj\Debug\DN_1.1_Hector_Jaramillo_v1.0.pdb
