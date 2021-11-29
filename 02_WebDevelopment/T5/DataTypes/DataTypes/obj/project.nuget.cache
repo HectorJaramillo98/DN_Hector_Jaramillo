@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7MwjwFKW0kOmmobs9jutj74b7Bql9pG4KxUeDt8sQXBDCZSudoTpHpRke5skRdcI819PAsPIi17at3rK263Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\DataTypes\\DataTypes\\DataTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
