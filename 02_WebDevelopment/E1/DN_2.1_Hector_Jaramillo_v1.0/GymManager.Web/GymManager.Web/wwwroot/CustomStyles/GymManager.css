@@ -1,0 +1,15 @@
+    .logo_size {
+        width: 60px;
+        padding-right: 1%;
+    }
+    nav {
+        font-family: 'Showcard Gothic', "Showcard Gothic";
+    }
+
+    nav.bg-dark {
+        background-color: #0026ff !important;
+    }
+
+
+
+
