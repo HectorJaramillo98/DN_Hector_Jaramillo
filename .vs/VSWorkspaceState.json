@@ -1,14 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01_OOP\\E1",
-    "\\01_OOP\\E1\\DN_1.1_Hector_Jaramillo_v1.0",
-    "\\01_OOP\\E2",
-    "\\01_OOP\\E2\\DN_1.2_Hector_Jaramillo_v1.0",
-    "\\01_OOP\\E2\\DN_1.2_Hector_Jaramillo_v1.0\\AudioManager",
+    "\\02_WebDevelopment",
     "\\02_WebDevelopment\\E1",
-    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0"
+    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0",
+    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web",
+    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web",
+    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views",
+    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views\\Members"
   ],
-  "SelectedNode": "\\02_WebDevelopment",
+  "SelectedNode": "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views\\Members\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
