@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3T7y4DIOjBKBbUVA5upxIaokmRJs/IDBKO/9eab5OEb9UeohhtexlLmMYdDVFEKnrPhGXrvl9x9kM5fSQ8veNg==",
+  "dgSpecHash": "Jp6EQDUq4hpCLJk/hbMbzuLTAikXpkY0YMr/98WERcfnmot5qP3aLGFgYVeX2ZKxoFr4vagKRIPSljZHgCL/Dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.12\\microsoft.aspnetcore.mvc.razor.extensions.5.0.12.nupkg.sha512",
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.12\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.12.nupkg.sha512",

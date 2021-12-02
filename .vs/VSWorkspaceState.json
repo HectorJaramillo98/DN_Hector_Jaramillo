@@ -1,17 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01_OOP",
     "\\01_OOP\\E1",
     "\\01_OOP\\E1\\DN_1.1_Hector_Jaramillo_v1.0",
     "\\01_OOP\\E2",
     "\\01_OOP\\E2\\DN_1.2_Hector_Jaramillo_v1.0",
     "\\01_OOP\\E2\\DN_1.2_Hector_Jaramillo_v1.0\\AudioManager",
-    "\\01_OOP\\T1\\OOP.ConsoleExample",
-    "\\01_OOP\\T1\\OOP.ConsoleExample\\OOP.ConsoleExample",
-    "\\01_OOP\\T2\\OOP.ConsoleExample",
-    "\\01_OOP\\T2\\OOP.ConsoleExample\\AudioManager"
+    "\\02_WebDevelopment\\E1",
+    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0"
   ],
-  "SelectedNode": "\\01_OOP\\E2\\DN_1.2_Hector_Jaramillo_v1.0\\AudioManager\\Auto.cs",
+  "SelectedNode": "\\02_WebDevelopment",
   "PreviewInSolutionExplorer": false
 }
