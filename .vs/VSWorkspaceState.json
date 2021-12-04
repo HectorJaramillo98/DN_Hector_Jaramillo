@@ -2,13 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\02_WebDevelopment",
-    "\\02_WebDevelopment\\E1",
-    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0",
-    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web",
-    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web",
-    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views",
-    "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views\\Members"
+    "\\02_WebDevelopment\\E2",
+    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0",
+    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web",
+    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web",
+    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views\\Attendance",
+    "\\02_WebDevelopment\\E3",
+    "\\02_WebDevelopment\\E3\\DN_2.3_Hector_Jaramillo_v1.0",
+    "\\02_WebDevelopment\\E3\\DN_2.3_Hector_Jaramillo_v1.0\\DataTypes",
+    "\\02_WebDevelopment\\E3\\DN_2.3_Hector_Jaramillo_v1.0\\DataTypes\\DataTypes.Web"
   ],
-  "SelectedNode": "\\02_WebDevelopment\\E1\\DN_2.1_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views\\Members\\Index.cshtml",
+  "SelectedNode": "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views",
   "PreviewInSolutionExplorer": false
 }

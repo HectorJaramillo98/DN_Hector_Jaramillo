@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Bootstrap\js\ModalScripts.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.rtl.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.rtl.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.rtl.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.rtl.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.rtl.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.rtl.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.rtl.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.rtl.min.css" />
+    <None Include="wwwroot\Bootstrap\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.esm.js" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.js.map" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\Bootstrap\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\Bootstrap\js\ModalScripts.js" />
+    <None Include="wwwroot\CustomStyles\GymManager.css" />
+    <None Include="wwwroot\Images\GymLogo.png" />
+    <None Include="wwwroot\Images\LogoFundacion.jpeg" />
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.12" />
+  </ItemGroup>
+
+</Project>
