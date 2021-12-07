@@ -26,7 +26,7 @@ namespace GymManager.Web.Controllers
             viewModel.Members=members;
 
 
-            return View();
+            return View(viewModel);
         }
 
         public IActionResult Test()
