@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERMGXrcC0ybEnpGHVxihfN8ViqrwaJr/9OI4l5zOU1xtSAx7okhY6Imi97+pgmAEYzdp94hO9WAUj3SIYxmRrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T2\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

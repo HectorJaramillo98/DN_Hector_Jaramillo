@@ -1,18 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0",
-    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web",
-    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web",
-    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views",
-    "\\02_WebDevelopment\\E2\\DN_2.2_Hector_Jaramillo_v1.0\\GymManager.Web\\GymManager.Web\\Views\\Attendance",
+    "\\02_WebDevelopment\\E2",
     "\\03_NetProjects",
-    "\\03_NetProjects\\T1",
     "\\03_NetProjects\\T1\\GymManager.Web",
     "\\03_NetProjects\\T1\\GymManager.Web\\GymManager.Web",
     "\\03_NetProjects\\T1\\GymManager.Web\\GymManager.Web\\Views",
-    "\\03_NetProjects\\T1\\GymManager.Web\\GymManager.Web\\Views\\Members"
+    "\\03_NetProjects\\T1\\GymManager.Web\\GymManager.Web\\Views\\Members",
+    "\\03_NetProjects\\T3",
+    "\\03_NetProjects\\T3\\GymManager.Web",
+    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web",
+    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views",
+    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views\\Shared"
   ],
-  "SelectedNode": "\\03_NetProjects\\T1\\GymManager.Web\\GymManager.Web\\Views\\Members\\Index.cshtml",
+  "SelectedNode": "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
