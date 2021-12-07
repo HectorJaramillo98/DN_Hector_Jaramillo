@@ -13,8 +13,4 @@
     <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\Views\" />
-  </ItemGroup>
-
 </Project>

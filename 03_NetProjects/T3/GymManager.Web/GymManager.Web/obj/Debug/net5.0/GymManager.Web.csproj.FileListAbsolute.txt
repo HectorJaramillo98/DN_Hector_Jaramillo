@@ -468,3 +468,4 @@ C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web
 C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Shared\_PartialView.cshtml.g.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs

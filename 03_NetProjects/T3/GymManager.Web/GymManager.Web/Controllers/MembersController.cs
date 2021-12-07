@@ -23,7 +23,7 @@ namespace GymManager.Web.Controllers
             MemberListViewModel viewModel = new MemberListViewModel();
 
             viewModel.NewMembersCount = 2;
-            viewModel.Members=members;
+            viewModel.Members = members;
 
 
             return View(viewModel);
@@ -35,6 +35,12 @@ namespace GymManager.Web.Controllers
             return View();
         }
 
+        [HttpPost]
+        public IActionResult Create(Member member)
+        {
+            _membersAppService.AddMembers(member);
+            return RedirectToAction("Index");
+        }
         public IActionResult Test()
         {
             return View();

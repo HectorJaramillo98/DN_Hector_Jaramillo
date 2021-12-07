@@ -1,4 +1,5 @@
-﻿@{
+﻿@model GymManager.Core.Members.Member
+@{
 
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -6,6 +7,12 @@
 @section Head{
 
 	<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
 
 }
 
@@ -16,7 +23,11 @@
 		crossorigin="anonymous"></script>
 
 
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+
 	<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <script src="~/Views/Members/Create.js"></script>
 
 }
 
@@ -36,27 +47,26 @@
             <input type="text" class="form-control" asp-for="LastName" />
         </div>
         <div class="mb-3">
-            <label asp-for="BirthDay" class="form-label">Birth Day</label>
-            <input type="date" class="form-control" asp-for="BirthDay" />
+            <label asp-for="Birthday" class="form-label">Birth Day</label>
+            <input type="text" class="form-control" asp-for="Birthday" />
         </div>
         <div class="mb-3">
             <label asp-for="CityId" class="form-label">City</label>
-            <select class="form-control" asp-for="CityId">
+            <select  class="form-control" asp-for="CityId">
                 <option value="1">Alabama</option>
 				<option value="2">Alaska</option>
 				<option value="3">Arizona</option>
 				<option value="4">Arkansas</option>
 				<option value="5">California</option>
-				<option value="6">Colorado</option>
             </select>
         </div>
         <div class="mb-3">
-            <label asp-for="Email" class="form-label">First Name</label>
+            <label asp-for="Email" class="form-label">Email</label>
             <input type="email" class="form-control" asp-for="Email" />
         </div>
         <div class="mb-3 form-check">
-            <input type="checkbox" class="form-check-input" asp-for="AllowNewsLetter" />
-            <label asp-for="AllowNewsLetter" class="form-check-label">Suscribe to our newsletter?</label>
+            <input type="checkbox" class="form-check-input" asp-for="AllowNewsletter" />
+            <label asp-for="AllowNewsletter" class="form-check-label">Suscribe to our newsletter?</label>
         </div>
         <button type="submit" class="btn btn-primary mb-3">Submit</button>
     </form>
