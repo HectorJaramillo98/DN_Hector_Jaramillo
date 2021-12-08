@@ -2,14 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\03_NetProjects",
-    "\\03_NetProjects\\T3",
-    "\\03_NetProjects\\T3\\GymManager.Web",
-    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web",
-    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views",
-    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views\\Home",
-    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views\\Members",
-    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views\\Shared"
+    "\\03_NetProjects\\T5",
+    "\\03_NetProjects\\T5\\GymManager.Web",
+    "\\03_NetProjects\\T5\\GymManager.Web\\GymManager.AplicationsServices",
+    "\\03_NetProjects\\T5\\GymManager.Web\\GymManager.AplicationsServices\\Navigation"
   ],
-  "SelectedNode": "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\03_NetProjects\\T5\\GymManager.Web\\GymManager.AplicationsServices\\Navigation\\MenuAppService.cs",
   "PreviewInSolutionExplorer": false
 }

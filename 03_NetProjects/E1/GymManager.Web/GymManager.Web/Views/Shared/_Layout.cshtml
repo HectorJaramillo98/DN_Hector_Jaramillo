@@ -65,6 +65,7 @@
                         </li>
                     </ul>
                              @RenderSection("HeaderRight", false)
+                             @await Html.PartialAsync("~/Views/Shared/_UserNamePartialView.cshtml")
                 </div>
             </div>
         </nav>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XfogtBqVL/fDyhLXWxcZYi6mLxMY9D1b/xzN0ErfB2LHS/W2kKSro3rppvvRQ2wx4X3+OKT2bgN00kMhlRJRwQ==",
+  "dgSpecHash": "passDymJeqLLK0ZJiLg86/Tz70KGUu0m31LrJ8FkfjbXDkoPWVkAwEmL5MnEbBc8Cb2aevtbE/7VaXzqvQJQYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

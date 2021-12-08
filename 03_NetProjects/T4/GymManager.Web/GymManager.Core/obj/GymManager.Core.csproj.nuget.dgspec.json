@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {}
+    "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+    "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "projectName": "GymManager.Core",
-        "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\obj\\",
+        "outputPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T4\\GymManager.Web\\GymManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
