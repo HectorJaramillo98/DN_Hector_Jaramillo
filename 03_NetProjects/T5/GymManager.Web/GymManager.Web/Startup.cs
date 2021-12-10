@@ -1,4 +1,5 @@
 using GymManager.AplicationsServices.Members;
+using GymManager.AplicationsServices.Navigation;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -22,6 +23,8 @@ namespace GymManager.Web
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             services.AddTransient<IMembersAppService, MemebersAppService>();
+
+            services.AddTransient<IMenuAppService, MenuAppService>();
 
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
