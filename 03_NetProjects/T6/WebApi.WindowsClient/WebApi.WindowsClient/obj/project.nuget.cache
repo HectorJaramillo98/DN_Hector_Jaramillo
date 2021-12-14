@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOp7D53ecLJqcU11DJVBpM85gGnnWZNpmSyZQ3Yh2ykpj+SCdOC7pUhy9eRrzSN2KmKywGSoOtdrGn5sAf90Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\WebApi.WindowsClient\\WebApi.WindowsClient\\WebApi.WindowsClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
