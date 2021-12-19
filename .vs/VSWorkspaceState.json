@@ -3,7 +3,14 @@
     "",
     "\\03_NetProjects",
     "\\03_NetProjects\\E2",
-    "\\03_NetProjects\\T7"
+    "\\03_NetProjects\\T7",
+    "\\03_NetProjects\\T7\\GymManager.Web",
+    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web",
+    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views",
+    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared",
+    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared\\Components",
+    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared\\Components\\AppMenu"
   ],
+  "SelectedNode": "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

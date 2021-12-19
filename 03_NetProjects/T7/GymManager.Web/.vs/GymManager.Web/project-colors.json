@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbf1b999-f016-453c-b4ad-0c327fed5462": {
+      "ProjectGuid": "dbf1b999-f016-453c-b4ad-0c327fed5462",
+      "DisplayName": "GymManager.Web",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fe32b387-20db-40a7-ae8f-d2a7df5d0f5a": {
+      "ProjectGuid": "fe32b387-20db-40a7-ae8f-d2a7df5d0f5a",
+      "DisplayName": "GymManager.AplicationsServices",
+      "ColorIndex": 1
+    },
+    "21291b97-0656-47e6-a7d1-7800f0f1eaf1": {
+      "ProjectGuid": "21291b97-0656-47e6-a7d1-7800f0f1eaf1",
+      "DisplayName": "GymManager.Core",
+      "ColorIndex": 2
+    },
+    "52d7c7b7-4bf4-441e-b599-b8dab26364bf": {
+      "ProjectGuid": "52d7c7b7-4bf4-441e-b599-b8dab26364bf",
+      "DisplayName": "GymManager.DataAccess",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
