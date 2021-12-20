@@ -17,7 +17,8 @@ namespace GymManager.Web.Controllers
         private readonly IMembersAppService _membersAppService;
         private readonly ILogger _logger;
 
-        public MembersController(IMembersAppService membersAppService, ILogger logger)
+        public MembersController(IMembersAppService membersAppService, 
+            ILogger logger)
         {
             _membersAppService = membersAppService;
             _logger = logger;

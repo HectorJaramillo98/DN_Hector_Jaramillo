@@ -23,7 +23,7 @@ namespace GymManager.Web.Controllers
                     Email = "hectorarmando310@gmail.com",
                     EmailConfirmed = true,
                     UserName = "hectorarmando310@gmail.com",
-                }, "Password.1").Result;
+                }, "Hector#1234").Result;
 
             }
         }
@@ -35,11 +35,13 @@ namespace GymManager.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(LoginModel model)
         {
-            string returnUrl = string.IsNullOrEmpty(Request.Query["returnUrl"]) ? Url.Content("~/") : Request.Query["returnUrl"];
+            string returnUrl = string.IsNullOrEmpty(Request.Query["ReturnUrl"]) ? Url.Content("~/") : Request.Query["ReturnUrl"];
 
             if (ModelState.IsValid)
             {
-                var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, lockoutOnFailure: true);
+                var result = await _signInManager.PasswordSignInAsync(model.Email, 
+                    model.Password, model.RememberMe, 
+                    lockoutOnFailure: true);
                 if (result.Succeeded)
                 {
                     return LocalRedirect(returnUrl);

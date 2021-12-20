@@ -38,7 +38,8 @@ namespace GymManager.Web
             services.AddDbContext<GymManagerContext>(options =>
                 options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<GymManagerContext>();
+            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).
+                AddEntityFrameworkStores<GymManagerContext>();
 
             services.ConfigureApplicationCookie(options => options.LoginPath = "/Account/Login");
 
@@ -84,11 +85,18 @@ namespace GymManager.Web
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
+
+            //app.UseAuthentication();
 
             app.UseAuthentication();
+            app.UseAuthorization();
+
+
+
 
             app.UseStaticFiles();
+            app.UseHttpsRedirection();
 
             app.UseEndpoints(endpoints =>
             {
