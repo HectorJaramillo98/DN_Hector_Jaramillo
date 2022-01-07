@@ -48,13 +48,6 @@ INSERT INTO `gymmanager`.`sales` (`idsales`, `users_idusers`, `date`) VALUES (3,
 INSERT INTO `gymmanager`.`sales` (`idsales`, `users_idusers`, `date`) VALUES (4, 4, NOW());
 INSERT INTO `gymmanager`.`sales` (`idsales`, `users_idusers`, `date`) VALUES (5, 5, NOW());
 
-INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`) VALUES (1, 1, NOW(), 80);
-INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`) VALUES (2, 2, NOW(), 50);
-INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`) VALUES (3, 3, NOW(), 30);
-INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`) VALUES (4, 4, NOW(), 60);
-INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`) VALUES (5, 5, NOW(), 70);
-INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`) VALUES (6, 1, NOW(), 0);
-
 INSERT INTO `gymmanager`.`measuretypes` (`idmeasuretypes`, `measure`) VALUES (1, 'small 200g');
 INSERT INTO `gymmanager`.`measuretypes` (`idmeasuretypes`, `measure`) VALUES (2, 'medium 500g');
 INSERT INTO `gymmanager`.`measuretypes` (`idmeasuretypes`, `measure`) VALUES (3, 'grande 1kg');
@@ -68,8 +61,21 @@ INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`, `cost`, `meas
 INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`, `cost`, `measuretypes_idmeasuretypes`, `inventory_idinventory`) VALUES (5, 'Chocolate protein', 1000, 5, 5);
 INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`, `cost`, `measuretypes_idmeasuretypes`, `inventory_idinventory`) VALUES (6, 'Moka protein', 100, 1, 6);
 
-INSERT INTO `gymmanager`.`salesproducttypes` (`sales_idsales`, `producttypes_idproducttypes`) VALUES (1, 1);
-INSERT INTO `gymmanager`.`salesproducttypes` (`sales_idsales`, `producttypes_idproducttypes`) VALUES (2, 2);
-INSERT INTO `gymmanager`.`salesproducttypes` (`sales_idsales`, `producttypes_idproducttypes`) VALUES (3, 3);
-INSERT INTO `gymmanager`.`salesproducttypes` (`sales_idsales`, `producttypes_idproducttypes`) VALUES (4, 4);
-INSERT INTO `gymmanager`.`salesproducttypes` (`sales_idsales`, `producttypes_idproducttypes`) VALUES (5, 5);
+INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`, `cost`, `name`, `measuretypes_idmeasuretypes`, `producttypes_idproducttypes`) VALUES (1, 1, NOW(), 80, 100, 'Protein Chocolate', 1, 1);
+INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`, `cost`, `name`, `measuretypes_idmeasuretypes`, `producttypes_idproducttypes`) VALUES (2, 1, NOW(), 80, 300, 'Protein Vanilla', 1, 2);
+INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`, `cost`, `name`, `measuretypes_idmeasuretypes`, `producttypes_idproducttypes`) VALUES (3, 1, NOW(), 80, 500, 'Protein Grape', 1, 3);
+INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`, `cost`, `name`, `measuretypes_idmeasuretypes`, `producttypes_idproducttypes`) VALUES (4, 1, NOW(), 80, 800, 'Protein Strawberry', 1, 4);
+INSERT INTO `gymmanager`.`inventory` (`idinventory`, `users_idusers`, `dateupdate`, `stock`, `cost`, `name`, `measuretypes_idmeasuretypes`, `producttypes_idproducttypes`) VALUES (5, 1, NOW(), 80, 1000, 'Protein Blackberry', 1, 5);
+
+INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`) VALUES (1, 'Polvo');
+INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`) VALUES (2, 'Polvo Granulado');
+INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`) VALUES (3, 'Pasta');
+INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`) VALUES (4, 'Energizante');
+INSERT INTO `gymmanager`.`producttypes` (`idproducttypes`, `name`) VALUES (5, 'Suero');
+
+
+INSERT INTO `gymmanager`.`salesinventory` (`sales_idsales`, `inventory_idinventory`) VALUES (1, 1);
+INSERT INTO `gymmanager`.`salesinventory` (`sales_idsales`, `inventory_idinventory`) VALUES (1, 2);
+INSERT INTO `gymmanager`.`salesinventory` (`sales_idsales`, `inventory_idinventory`) VALUES (1, 3);
+INSERT INTO `gymmanager`.`salesinventory` (`sales_idsales`, `inventory_idinventory`) VALUES (1, 4);
+INSERT INTO `gymmanager`.`salesinventory` (`sales_idsales`, `inventory_idinventory`) VALUES (1, 5);

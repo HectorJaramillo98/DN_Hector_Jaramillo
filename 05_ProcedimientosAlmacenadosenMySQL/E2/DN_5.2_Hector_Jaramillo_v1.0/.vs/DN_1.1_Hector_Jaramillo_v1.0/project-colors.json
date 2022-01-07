@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92a2c48e-229e-473e-a1d3-0270133315b6": {
+      "ProjectGuid": "92a2c48e-229e-473e-a1d3-0270133315b6",
+      "DisplayName": "DN_1.1_Hector_Jaramillo_v1.0",
+      "ColorIndex": 0
+    },
+    "5e20dda7-17da-45dc-add4-fb877919b150": {
+      "ProjectGuid": "5e20dda7-17da-45dc-add4-fb877919b150",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
