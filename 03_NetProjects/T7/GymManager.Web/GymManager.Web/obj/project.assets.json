@@ -4206,11 +4206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+      "projectUniqueName": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
       "projectName": "GymManager.Web",
-      "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+      "projectPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
       "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\obj\\",
+      "outputPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4227,14 +4227,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj": {
-              "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj"
+            "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj": {
+              "projectPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj"
             },
-            "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
-              "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+            "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+              "projectPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
             },
-            "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj"
+            "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hecto\\source\\repos\\DN_Hector_Jaramillo\\03_NetProjects\\T7\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj"
             }
           }
         }
