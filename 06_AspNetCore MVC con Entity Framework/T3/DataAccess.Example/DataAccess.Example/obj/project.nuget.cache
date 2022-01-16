@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+TDlCUJM0bVf/W8SrLaOYPN7Td/bCerjT+SGXhPzt2q0iZIROUxTIa6Y//i5so7qizhCg0SAwM0E9erQ0El6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\T3\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\mysqlconnector\\1.3.14\\mysqlconnector.1.3.14.nupkg.sha512",
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

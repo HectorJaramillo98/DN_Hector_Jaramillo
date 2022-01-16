@@ -5,11 +5,15 @@
     "\\03_NetProjects\\T7",
     "\\03_NetProjects\\T7\\GymManager.Web",
     "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web",
-    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Controllers",
     "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views",
     "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared",
     "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared\\Components",
-    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared\\Components\\AppMenu"
+    "\\03_NetProjects\\T7\\GymManager.Web\\GymManager.Web\\Views\\Shared\\Components\\AppMenu",
+    "\\06_AspNetCore MVC con Entity Framework",
+    "\\06_AspNetCore MVC con Entity Framework\\T3",
+    "\\06_AspNetCore MVC con Entity Framework\\T3\\DataAccess.Example",
+    "\\06_AspNetCore MVC con Entity Framework\\T3\\DataAccess.Example\\DataAccess.Example"
   ],
+  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\T3\\DataAccess.Example\\DataAccess.Example\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
