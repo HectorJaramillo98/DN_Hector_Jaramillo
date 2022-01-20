@@ -1,0 +1,12 @@
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\ref\DataAccess.Example.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\ref\DataAccess.Example.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T3\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.pdb
