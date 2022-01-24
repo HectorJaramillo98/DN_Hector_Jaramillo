@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\06_AspNetCore MVC con Entity Framework",
-    "\\06_AspNetCore MVC con Entity Framework\\T5",
-    "\\06_AspNetCore MVC con Entity Framework\\T5\\DataAccess.Example",
-    "\\06_AspNetCore MVC con Entity Framework\\T5\\DataAccess.Example\\DataAccess.Example.WebApi",
-    "\\06_AspNetCore MVC con Entity Framework\\T5\\DataAccess.Example\\DataAccess.Example.WebApi\\Controllers"
+    "\\06_AspNetCore MVC con Entity Framework\\T6",
+    "\\06_AspNetCore MVC con Entity Framework\\T6\\GymManager.Web",
+    "\\06_AspNetCore MVC con Entity Framework\\T6\\GymManager.Web\\GymManager.Core",
+    "\\06_AspNetCore MVC con Entity Framework\\T6\\GymManager.Web\\GymManager.Core\\Members"
   ],
-  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\T5\\DataAccess.Example\\DataAccess.Example.WebApi\\Controllers\\MakesController.cs",
+  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\T6\\GymManager.Web\\GymManager.Core\\Members\\City.cs",
   "PreviewInSolutionExplorer": false
 }
