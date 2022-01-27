@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
-    "",
     "\\06_AspNetCore MVC con Entity Framework",
-    "\\06_AspNetCore MVC con Entity Framework\\T8",
-    "\\06_AspNetCore MVC con Entity Framework\\T8\\GymManager.Web"
+    "\\06_AspNetCore MVC con Entity Framework\\T9",
+    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web",
+    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web",
+    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web\\Reports",
+    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web\\Views",
+    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web\\Views\\Invoicing"
   ],
   "PreviewInSolutionExplorer": false
 }
