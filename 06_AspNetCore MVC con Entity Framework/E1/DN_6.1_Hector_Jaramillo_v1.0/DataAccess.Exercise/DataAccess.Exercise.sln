@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Exercise", "DataAccess.Exercise\DataAccess.Exercise.csproj", "{30EAECC3-0CE7-4C52-B725-88EA992DE919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Excercise", "WebApi.Excercise\WebApi.Excercise.csproj", "{E4ECE819-E9F9-4B77-97A6-7E9A4E9C63A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EAECC3-0CE7-4C52-B725-88EA992DE919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EAECC3-0CE7-4C52-B725-88EA992DE919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EAECC3-0CE7-4C52-B725-88EA992DE919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EAECC3-0CE7-4C52-B725-88EA992DE919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ECE819-E9F9-4B77-97A6-7E9A4E9C63A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ECE819-E9F9-4B77-97A6-7E9A4E9C63A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ECE819-E9F9-4B77-97A6-7E9A4E9C63A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ECE819-E9F9-4B77-97A6-7E9A4E9C63A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D7A2F3-5E93-4358-9F14-FC940F0B5AA0}
+	EndGlobalSection
+EndGlobal

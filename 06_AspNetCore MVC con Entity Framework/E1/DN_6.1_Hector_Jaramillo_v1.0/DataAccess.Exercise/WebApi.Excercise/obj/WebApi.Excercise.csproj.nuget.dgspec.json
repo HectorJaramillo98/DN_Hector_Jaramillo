@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\WebApi.Excercise\\WebApi.Excercise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\DataAccess.Exercise\\DataAccess.Exercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\DataAccess.Exercise\\DataAccess.Exercise.csproj",
+        "projectName": "DataAccess.Exercise",
+        "projectPath": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\DataAccess.Exercise\\DataAccess.Exercise.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\DataAccess.Exercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.3.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\WebApi.Excercise\\WebApi.Excercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\WebApi.Excercise\\WebApi.Excercise.csproj",
+        "projectName": "WebApi.Excercise",
+        "projectPath": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\WebApi.Excercise\\WebApi.Excercise.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\WebApi.Excercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\DataAccess.Exercise\\DataAccess.Exercise.csproj": {
+                "projectPath": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\DataAccess.Exercise\\DataAccess.Exercise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

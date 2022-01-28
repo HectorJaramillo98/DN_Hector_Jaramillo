@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKySZ3v7COjxcGctlosMSQL0cS09LT8p6roGakAkeKg2HkrB6+1H0XnGyd0j0n/MHArimSbNOoKsZ/2vA8q++A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\source\\repos\\DataAccess.Exercise\\WebApi.Excercise\\WebApi.Excercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\mysqlconnector\\1.3.14\\mysqlconnector.1.3.14.nupkg.sha512",
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
