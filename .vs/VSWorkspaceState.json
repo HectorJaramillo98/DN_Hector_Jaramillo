@@ -2,17 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\06_AspNetCore MVC con Entity Framework",
-    "\\06_AspNetCore MVC con Entity Framework\\E1",
-    "\\06_AspNetCore MVC con Entity Framework\\E1\\DataAccess.Example",
-    "\\06_AspNetCore MVC con Entity Framework\\T10\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\T10\\GymManager.Web\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\T10\\GymManager.Web\\GymManager.Web\\Reports",
-    "\\06_AspNetCore MVC con Entity Framework\\T9",
-    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web\\Controllers",
-    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web\\Views"
+    "\\06_AspNetCore MVC con Entity Framework\\E1\\DN_6.1_Hector_Jaramillo_v1.0",
+    "\\06_AspNetCore MVC con Entity Framework\\E1\\DN_6.1_Hector_Jaramillo_v1.0\\DataAccess.Exercise",
+    "\\06_AspNetCore MVC con Entity Framework\\E2",
+    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web",
+    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web\\GymManager.Web",
+    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web\\GymManager.Web\\Reports"
   ],
-  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\E1\\DataAccess.Example\\DataAccess.Example.sln",
+  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web\\GymManager.Web\\Reports\\NewMembers.rdlc",
   "PreviewInSolutionExplorer": false
 }
