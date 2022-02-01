@@ -1,0 +1,177 @@
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\03_NetProjects\T3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T4\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T5\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\03_NetProjects\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T6\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T7\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T8\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E2\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.deps.json
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.AplicationsServices.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\bin\Debug\net5.0\GymManager.DataAccess.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfoInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.AssemblyInfo.cs
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.csproj.CopyComplete
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\ref\GymManager.AplicationsServices.dll
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.AplicationsServices\obj\Debug\net5.0\GymManager.AplicationsServices.pdb
