@@ -32,5 +32,11 @@ namespace GymManager.DataAccess.Repositories
             var member = await Context.Members.Include(x => x.City).FirstOrDefaultAsync(x => x.Id == id);
             return member;
         }
+
+        public override IQueryable<Member> GetAll()
+        {
+            var member =  Context.Members.Include(x => x.Membershiptype);
+            return member;
+        }
     }
 }

@@ -39,7 +39,7 @@ namespace GymManager.Core.Members
         [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime CreatedOn { get; set; } 
 
-        MembershipType Membershiptype { get; set; }
+        public MembershipType Membershiptype { get; set; }
 
     }
 }

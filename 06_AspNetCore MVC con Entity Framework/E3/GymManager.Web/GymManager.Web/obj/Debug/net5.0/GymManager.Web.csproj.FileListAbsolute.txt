@@ -4564,3 +4564,6 @@ C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Fra
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Equipment\Edit.cshtml.g.cs
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Equipment\Index.cshtml.g.cs
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Shared\_EquipmentList.cshtml.g.cs
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\ChangeRenewal.cshtml.g.cs
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\Renewal.cshtml.g.cs
+C:\Users\hecto\source\repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E3\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Shared\_RenewalList.cshtml.g.cs

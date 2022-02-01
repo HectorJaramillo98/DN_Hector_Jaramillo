@@ -126,21 +126,21 @@ namespace GymManager.AplicationsServices.Navigation
                         Name = "MembershipRenewal",
                         DisplayName = "Membership Renewal",
                         Order = 1,
-                        Url = "/Membership/Renewal/"
+                        Url = "/Members/Renewal/"
                     },
                     new UserMenuItem
                     {
                         Name = "CheckIn",
                         DisplayName = "CheckIn",
                         Order = 2,
-                        Url = "/Members/CheckIn/"
+                        Url = "/Attendance/MemberIn/"
                     },
                     new UserMenuItem
                     {
                         Name = "CheckOut",
                         DisplayName = "CheckOut",
                         Order = 3,
-                        Url = "/Members/CheckOut/"
+                        Url = "/Attendance/MemberOut/"
                     }
                 }
             });

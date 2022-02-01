@@ -19,5 +19,7 @@ namespace GymManager.AplicationsServices.Members
         Task DeleteMembersAsync(int memberId);
 
         Task<Member> GetMemberAsync(int memberId);
+
+        Task<List<Member>> GetMembersAsync(string Search);
     }
 }

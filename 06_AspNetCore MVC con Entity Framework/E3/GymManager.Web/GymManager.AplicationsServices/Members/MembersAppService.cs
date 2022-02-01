@@ -43,5 +43,18 @@ namespace GymManager.AplicationsServices.Members
         {
             return await _repository.GetAll().ToListAsync();
         }
+
+        public async Task<List<Member>> GetMembersAsync(string filterParameter)
+        {
+            if ( filterParameter== null || filterParameter.Length == 0)
+            {
+                return await _repository.GetAll().ToListAsync();
+
+            }
+            else
+            {
+                return await _repository.GetAll().Where(x => x.Name.Contains(filterParameter)).ToListAsync();
+            }
+        }
     }
 }

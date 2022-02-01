@@ -14,5 +14,8 @@ namespace GymManager.DataAccess.Repositories
         Task<TEntity> UpdateAsync(TEntity entity);
 
         Task DeleteAsync(TId id);
+
+
+
     }
 }
