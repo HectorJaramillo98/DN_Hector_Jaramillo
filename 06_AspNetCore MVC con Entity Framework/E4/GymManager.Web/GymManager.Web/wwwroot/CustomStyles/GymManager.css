@@ -1,0 +1,19 @@
+    .logo_size {
+        width: 60px !important;
+        padding-right: 1%;
+    }
+    nav {
+        font-family: "Segoe Script", "Segoe Script";
+    }
+
+    nav.bg-dark {
+        background-color: #0026ff !important;
+    }
+
+    .space{
+        margin-left: 10px;
+    }
+
+
+
+

@@ -1,0 +1,11 @@
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\bin\Debug\GymManager.Report.Design.exe.config
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\bin\Debug\GymManager.Report.Design.exe
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\bin\Debug\GymManager.Report.Design.pdb
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.Properties.Resources.resources
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.GenerateResource.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\RdlCompile.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\RdlCompile.compiled
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.exe
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\T9\GymManager.Web\GymManager.Report.Design\obj\Debug\GymManager.Report.Design.pdb

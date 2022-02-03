@@ -1,0 +1,60 @@
+﻿using GymManager.Core.Members;
+using GymManager.DataAccess.Repositories;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+
+namespace GymManager.AplicationsServices.Members
+{
+    public class MembersAppService : IMembersAppService
+    {
+        private readonly IRepository<int, Member> _repository;
+
+        public MembersAppService(IRepository<int,Member> repository)
+        {
+            _repository = repository;
+        }
+
+        public async Task<int> AddMembersAsync(Member member)
+        {
+            await _repository.AddAsync(member);
+            return member.Id;
+        }
+
+        public async Task DeleteMembersAsync(int memberId)
+        {
+            await _repository.DeleteAsync(memberId);
+        }
+
+        public async Task EditMemberAsync(Member member)
+        {
+            await _repository.UpdateAsync(member);
+        }
+
+        public async Task<Member> GetMemberAsync(int memberId)
+        {
+            return await _repository.GetAsync(memberId);
+        }
+
+        public async Task<List<Member>> GetMembersAsync()
+        {
+            return await _repository.GetAll().ToListAsync();
+        }
+
+        public async Task<List<Member>> GetMembersAsync(string filterParameter)
+        {
+            if ( filterParameter== null || filterParameter.Length == 0)
+            {
+                return await _repository.GetAll().ToListAsync();
+
+            }
+            else
+            {
+                return await _repository.GetAll().Where(x => x.Name.Contains(filterParameter)).ToListAsync();
+            }
+        }
+    }
+}

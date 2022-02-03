@@ -1,0 +1,112 @@
+2021-12-18 21:15:55.520 -08:00 [INF] Index executed
+2021-12-20 09:52:49.600 -08:00 [INF] Index executed
+2021-12-20 09:58:36.515 -08:00 [INF] Index executed
+2021-12-20 10:00:16.322 -08:00 [INF] Index executed
+2021-12-20 10:01:24.405 -08:00 [INF] Index executed
+2021-12-20 10:14:27.091 -08:00 [INF] Index executed
+2021-12-20 10:16:46.822 -08:00 [INF] Index executed
+2022-01-20 15:46:01.085 -08:00 [INF] Index executed
+2022-01-20 15:46:31.534 -08:00 [INF] Index executed
+2022-01-20 15:46:52.243 -08:00 [INF] Index executed
+2022-01-20 15:48:47.689 -08:00 [INF] Index executed
+2022-01-20 15:49:12.748 -08:00 [INF] Index executed
+2022-01-20 15:49:25.780 -08:00 [INF] Index executed
+2022-01-20 15:49:35.395 -08:00 [INF] Index executed
+2022-01-21 14:49:03.081 -08:00 [INF] Index in Members executed
+2022-01-21 14:49:44.736 -08:00 [INF] Index in Members executed
+2022-01-21 14:57:09.910 -08:00 [INF] Index in Members executed
+2022-01-21 15:01:01.713 -08:00 [INF] Index in Members executed
+2022-01-21 15:01:24.503 -08:00 [INF] Index in Members executed
+2022-01-21 15:01:41.329 -08:00 [INF] Index in Members executed
+2022-01-21 15:02:26.148 -08:00 [INF] Index in Members executed
+2022-01-21 15:02:38.483 -08:00 [INF] Index in Members executed
+2022-01-21 15:02:46.412 -08:00 [INF] Index in Members executed
+2022-01-21 15:03:25.012 -08:00 [INF] Index in Members executed
+2022-01-21 15:03:35.020 -08:00 [INF] Index in Members executed
+2022-01-21 15:03:37.808 -08:00 [INF] Index in Members executed
+2022-01-21 15:04:03.385 -08:00 [INF] Index in Members executed
+2022-01-21 15:04:11.985 -08:00 [INF] Index in Members executed
+2022-01-21 15:07:15.423 -08:00 [INF] Index in Members executed
+2022-01-21 15:07:27.516 -08:00 [INF] Index in Members executed
+2022-01-21 15:07:35.374 -08:00 [INF] Index in Members executed
+2022-01-21 15:07:40.361 -08:00 [INF] Index in Members executed
+2022-01-21 15:09:12.971 -08:00 [INF] Index in Members executed
+2022-01-21 15:09:40.114 -08:00 [INF] Index in Members executed
+2022-01-21 15:09:49.541 -08:00 [INF] Index in Members executed
+2022-01-21 15:09:50.742 -08:00 [INF] Index in Members executed
+2022-01-21 15:09:51.925 -08:00 [INF] Index in Members executed
+2022-01-21 15:09:53.678 -08:00 [INF] Index in Members executed
+2022-01-21 15:10:25.215 -08:00 [INF] Index in Members executed
+2022-01-21 15:10:43.152 -08:00 [INF] Index in Members executed
+2022-01-21 15:12:59.559 -08:00 [INF] Index in Members executed
+2022-01-21 15:15:56.184 -08:00 [INF] Index in Members executed
+2022-01-26 09:05:06.687 -08:00 [INF] Index in Members executed
+2022-01-26 09:05:11.880 -08:00 [INF] Index in Members executed
+2022-01-31 14:49:55.727 -08:00 [INF] Index in Members executed
+2022-01-31 14:50:34.823 -08:00 [INF] Index in Members executed
+2022-01-31 14:51:14.128 -08:00 [INF] Index in Members executed
+2022-01-31 14:52:08.367 -08:00 [INF] Index in Members executed
+2022-01-31 14:52:10.058 -08:00 [INF] Index in Members executed
+2022-01-31 14:52:13.000 -08:00 [INF] Index in Members executed
+2022-01-31 14:52:29.386 -08:00 [INF] Index in Members executed
+2022-01-31 14:55:32.082 -08:00 [INF] Index in Members executed
+2022-01-31 19:14:24.717 -08:00 [INF] Index in Members executed
+2022-01-31 20:11:52.053 -08:00 [INF] Index in Members executed
+2022-01-31 20:12:21.593 -08:00 [INF] Index in Members executed
+2022-02-01 10:54:05.347 -08:00 [INF] Index in Members executed
+2022-02-01 11:00:56.600 -08:00 [INF] Index in Members executed
+2022-02-01 11:17:32.084 -08:00 [INF] Index in Members executed
+2022-02-01 11:17:49.771 -08:00 [INF] Index in Members executed
+2022-02-01 11:19:43.573 -08:00 [INF] Index in Members executed
+2022-02-01 13:52:28.867 -08:00 [INF] Index in Members executed
+2022-02-01 13:55:03.299 -08:00 [INF] Index in Members executed
+2022-02-01 14:18:14.918 -08:00 [INF] Index in Members executed
+2022-02-02 14:18:46.017 -08:00 [INF] Index in Members executed
+2022-02-02 15:59:44.011 -08:00 [INF] Index in Members executed
+2022-02-02 16:10:02.675 -08:00 [INF] Index in Members executed
+2022-02-02 16:11:00.860 -08:00 [INF] Index in Members executed
+2022-02-02 16:11:24.850 -08:00 [INF] Index in Members executed
+2022-02-02 16:13:45.836 -08:00 [INF] Index in Members executed
+2022-02-02 16:13:53.472 -08:00 [INF] Index in Members executed
+2022-02-02 18:19:11.599 -08:00 [INF] Index in Members executed
+2022-02-02 18:19:19.461 -08:00 [INF] Index in Members executed
+2022-02-02 18:26:23.315 -08:00 [INF] Index in Members executed
+2022-02-02 18:30:22.797 -08:00 [INF] Index in Members executed
+2022-02-02 18:31:54.498 -08:00 [INF] Index in Members executed
+2022-02-02 18:32:05.223 -08:00 [INF] Index in Members executed
+2022-02-02 18:33:02.170 -08:00 [INF] Index in Members executed
+2022-02-02 18:33:20.867 -08:00 [INF] Index in Members executed
+2022-02-02 18:33:43.509 -08:00 [INF] Index in Members executed
+2022-02-02 18:34:10.528 -08:00 [INF] Index in Members executed
+2022-02-02 18:45:01.214 -08:00 [INF] Index in Members executed
+2022-02-02 18:46:43.453 -08:00 [INF] Index in Members executed
+2022-02-02 18:51:37.446 -08:00 [INF] Index in Members executed
+2022-02-02 18:51:41.170 -08:00 [INF] Index in Members executed
+2022-02-02 18:51:59.191 -08:00 [INF] Index in Members executed
+2022-02-02 18:52:27.747 -08:00 [INF] Index in Members executed
+2022-02-02 18:52:41.652 -08:00 [INF] Index in Members executed
+2022-02-02 18:52:51.297 -08:00 [INF] Index in Members executed
+2022-02-02 18:52:59.543 -08:00 [INF] Index in Members executed
+2022-02-02 18:53:09.469 -08:00 [INF] Index in Members executed
+2022-02-02 18:53:27.939 -08:00 [INF] Index in Members executed
+2022-02-02 18:53:50.005 -08:00 [INF] Index in Members executed
+2022-02-02 18:53:55.741 -08:00 [INF] Index in Members executed
+2022-02-02 18:54:03.248 -08:00 [INF] Index in Members executed
+2022-02-02 19:03:23.785 -08:00 [INF] Index in Members executed
+2022-02-03 10:01:36.414 -08:00 [INF] Index in Members executed
+2022-02-03 10:01:52.463 -08:00 [INF] Index in Members executed
+2022-02-03 10:03:39.545 -08:00 [INF] Index in Members executed
+2022-02-03 10:17:08.736 -08:00 [INF] Index in Members executed
+2022-02-03 10:19:48.925 -08:00 [INF] Index in Members executed
+2022-02-03 10:19:58.008 -08:00 [INF] Index in Members executed
+2022-02-03 10:20:27.815 -08:00 [INF] Index in Members executed
+2022-02-03 10:22:44.813 -08:00 [INF] Index in Members executed
+2022-02-03 10:23:16.117 -08:00 [INF] Index in Members executed
+2022-02-03 10:23:27.622 -08:00 [INF] Index in Members executed
+2022-02-03 10:25:37.746 -08:00 [INF] Index in Members executed
+2022-02-03 10:25:51.208 -08:00 [INF] Index in Members executed
+2022-02-03 10:26:00.308 -08:00 [INF] Index in Members executed
+2022-02-03 10:26:02.836 -08:00 [INF] Index in Members executed
+2022-02-03 10:26:03.923 -08:00 [INF] Index in Members executed
+2022-02-03 10:26:11.321 -08:00 [INF] Index in Members executed
+2022-02-03 10:26:15.423 -08:00 [INF] Index in Members executed

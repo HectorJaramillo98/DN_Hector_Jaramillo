@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj",
+        "projectName": "GymManager.AplicationsServices",
+        "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.AplicationsServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+              },
+              "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectName": "GymManager.Core",
+        "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "projectName": "GymManager.DataAccess",
+        "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+        "projectName": "GymManager.Web",
+        "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.AplicationsServices\\GymManager.AplicationsServices.csproj"
+              },
+              "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+              },
+              "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Source\\Repos\\DN_Hector_Jaramillo\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "ReportViewerCore.NETCore": {
+              "target": "Package",
+              "version": "[15.1.14, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Wkhtmltopdf.NetCore": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

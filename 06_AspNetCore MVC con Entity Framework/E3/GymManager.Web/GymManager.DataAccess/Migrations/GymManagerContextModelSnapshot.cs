@@ -138,6 +138,29 @@ namespace GymManager.DataAccess.Migrations
                     b.ToTable("SalesInventory");
                 });
 
+            modelBuilder.Entity("GymManager.Core.Members.Check", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("Checkday")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<int?>("MemberId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Type")
+                        .HasMaxLength(200)
+                        .HasColumnType("varchar(200)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MemberId");
+
+                    b.ToTable("Checks");
+                });
+
             modelBuilder.Entity("GymManager.Core.Members.City", b =>
                 {
                     b.Property<int>("Id")
@@ -184,7 +207,7 @@ namespace GymManager.DataAccess.Migrations
                     b.Property<DateTime>("LastUpdate")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<int?>("MembershipTypeId")
+                    b.Property<int?>("MembershiptypeId")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
@@ -196,7 +219,7 @@ namespace GymManager.DataAccess.Migrations
 
                     b.HasIndex("CityId");
 
-                    b.HasIndex("MembershipTypeId");
+                    b.HasIndex("MembershiptypeId");
 
                     b.ToTable("Members");
                 });
@@ -438,17 +461,28 @@ namespace GymManager.DataAccess.Migrations
                     b.Navigation("ProductType");
                 });
 
+            modelBuilder.Entity("GymManager.Core.Members.Check", b =>
+                {
+                    b.HasOne("GymManager.Core.Members.Member", "Member")
+                        .WithMany("Checks")
+                        .HasForeignKey("MemberId");
+
+                    b.Navigation("Member");
+                });
+
             modelBuilder.Entity("GymManager.Core.Members.Member", b =>
                 {
                     b.HasOne("GymManager.Core.Members.City", "City")
                         .WithMany("Members")
                         .HasForeignKey("CityId");
 
-                    b.HasOne("GymManager.Core.MembershipTypes.MembershipType", null)
+                    b.HasOne("GymManager.Core.MembershipTypes.MembershipType", "Membershiptype")
                         .WithMany("Members")
-                        .HasForeignKey("MembershipTypeId");
+                        .HasForeignKey("MembershiptypeId");
 
                     b.Navigation("City");
+
+                    b.Navigation("Membershiptype");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -515,6 +549,11 @@ namespace GymManager.DataAccess.Migrations
             modelBuilder.Entity("GymManager.Core.Members.City", b =>
                 {
                     b.Navigation("Members");
+                });
+
+            modelBuilder.Entity("GymManager.Core.Members.Member", b =>
+                {
+                    b.Navigation("Checks");
                 });
 
             modelBuilder.Entity("GymManager.Core.MembershipTypes.MembershipType", b =>

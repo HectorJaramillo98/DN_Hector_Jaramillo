@@ -35,8 +35,10 @@ namespace GymManager.Web.Models
         [Required]
         public int CityId { get; set; }
 
+        [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime CreatedOn { get; set; }
 
+        [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime LastUpdate { get; set; }
 
 

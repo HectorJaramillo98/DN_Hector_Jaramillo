@@ -107,9 +107,24 @@ namespace GymManager.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(Member member)
+        public async Task<IActionResult> Edit(MemberViewModel viewModel)
         {
+            City city = await _cityAppService.GetCityAsync(viewModel.CityId);
+            Member member = new Member
+            {
+                Id= viewModel.Id,
+                Name = viewModel.Name,
+                LastName = viewModel.LastName,
+                Email = viewModel.Email,
+                City = city,
+                Birthday = viewModel.BirthDay,
+                AllowNewsletter = viewModel.AllowNewsletter,
+                LastUpdate = DateTime.Now
+
+
+            };
             await _membersAppService.EditMemberAsync(member);
+            city.Members.Add(member);
             return RedirectToAction("Index");
         }
 

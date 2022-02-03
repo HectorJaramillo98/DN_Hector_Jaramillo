@@ -41,5 +41,12 @@ namespace GymManager.Core.Members
 
         public MembershipType Membershiptype { get; set; }
 
+        public List<Check> Checks { get; set; }
+
+        public Member()
+        {
+            Checks = new List<Check>();
+        }
+
     }
 }

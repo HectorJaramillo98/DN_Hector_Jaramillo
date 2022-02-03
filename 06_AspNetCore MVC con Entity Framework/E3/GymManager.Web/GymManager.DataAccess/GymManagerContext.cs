@@ -24,6 +24,8 @@ namespace GymManager.DataAccess
         public virtual DbSet<ProductType> ProductTypes { get; set; }
         public virtual DbSet<Equipment> Equipments { get; set; }
 
+        public virtual DbSet<Check> Checks { get; set; }
+
 
 
         public GymManagerContext(DbContextOptions<GymManagerContext> options) : base(options)
