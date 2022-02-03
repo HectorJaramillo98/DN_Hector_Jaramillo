@@ -72,10 +72,10 @@
         <div class="mb-3">
             <label asp-for="CityId" class="form-label">City</label>
             <select class="form-control" asp-for="CityId">
-                <option value="1">Alabama</option>
-                <option value="2">Alaska</option>
-                <option value="3">Arizona</option>
-                <option value="4">Arkansas</option>
+                @foreach (var cityobj in Model.Cities)
+                {
+                    <option value="@cityobj.Id">@cityobj.Name</option>
+                }
             </select>
             <span asp-validation-for="CityId" class="text-danger"></span>
         </div>

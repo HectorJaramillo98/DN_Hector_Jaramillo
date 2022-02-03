@@ -1,4 +1,5 @@
-﻿using GymManager.Core.MembershipTypes;
+﻿using GymManager.Core.Members;
+using GymManager.Core.MembershipTypes;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,10 @@ namespace GymManager.Web.Models
 {
     public class MemberViewModel
     {
+       
         public List<MembershipType> membershipList = new List<MembershipType>();
+
+        public List<City> Cities { get; set; }
         public int Id { get; set; }
 
         [StringLength(15)]
@@ -34,6 +38,7 @@ namespace GymManager.Web.Models
         public DateTime CreatedOn { get; set; }
 
         public DateTime LastUpdate { get; set; }
+
 
 
     }

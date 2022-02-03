@@ -2,16 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\06_AspNetCore MVC con Entity Framework",
-    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web\\GymManager.Web\\Views",
-    "\\06_AspNetCore MVC con Entity Framework\\E2\\GymManager.Web\\GymManager.Web\\Views\\Shared",
     "\\06_AspNetCore MVC con Entity Framework\\E3",
     "\\06_AspNetCore MVC con Entity Framework\\E3\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\E3\\GymManager.Web\\GymManager.Core",
-    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web",
-    "\\06_AspNetCore MVC con Entity Framework\\T9\\GymManager.Web\\GymManager.Web\\Controllers"
+    "\\06_AspNetCore MVC con Entity Framework\\E3\\GymManager.Web\\GymManager.Core"
   ],
-  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\T9",
+  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\E3\\GymManager.Web\\GymManager.Web.sln",
   "PreviewInSolutionExplorer": false
 }

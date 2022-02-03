@@ -18,11 +18,13 @@ namespace GymManager.Web.Controllers
     {
         private readonly IMembersAppService _membersAppService;
         private readonly IMembershipTypeAppService _membershipTypeAppService;
+        private readonly ICityAppService _cityAppService;
         private readonly ILogger _logger;
-        public MembersController(IMembersAppService membersAppService, ILogger logger, IMembershipTypeAppService membershipTypesAppService)
+        public MembersController(IMembersAppService membersAppService, ILogger logger, IMembershipTypeAppService membershipTypesAppService,ICityAppService cityAppService)
         {
             _membershipTypeAppService = membershipTypesAppService;
             _membersAppService = membersAppService;
+            _cityAppService = cityAppService;
             _logger = logger;
         }
 
@@ -42,9 +44,14 @@ namespace GymManager.Web.Controllers
             return View(viewModel);
         }
 
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            return View();
+            List<City> cityL = await _cityAppService.GetCitiesAsync();
+            MemberViewModel viewModel = new MemberViewModel
+            {
+                Cities = cityL
+            };
+            return View(viewModel);
         }
 
         public async Task<IActionResult> Delete(int memberId)
@@ -57,7 +64,8 @@ namespace GymManager.Web.Controllers
         {
 
             Member member = await _membersAppService.GetMemberAsync(memberId);
-
+            List<City> cityL = await _cityAppService.GetCitiesAsync();
+           
             MemberViewModel viewModel = new MemberViewModel
             {
                 AllowNewsletter = member.AllowNewsletter,
@@ -67,8 +75,8 @@ namespace GymManager.Web.Controllers
                 Id = member.Id,
                 LastName = member.LastName,
                 Name = member.Name,
-                LastUpdate = DateTime.Now
-
+                LastUpdate = DateTime.Now,
+                Cities = cityL
 
             };
 
@@ -78,15 +86,13 @@ namespace GymManager.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(MemberViewModel viewModel)
         {
+            City city = await _cityAppService.GetCityAsync(viewModel.CityId);
             Member member = new Member
             {
                 Name = viewModel.Name,
                 LastName = viewModel.LastName,
                 Email = viewModel.Email,
-                City = new City
-                {
-                    Id = viewModel.CityId
-                },
+                City = city,
                 Birthday = viewModel.BirthDay,
                 AllowNewsletter = viewModel.AllowNewsletter,
                 CreatedOn = DateTime.Now,
@@ -96,6 +102,7 @@ namespace GymManager.Web.Controllers
             };
 
             await _membersAppService.AddMembersAsync(member);
+            city.Members.Add(member);
             return RedirectToAction("Index");
         }
 

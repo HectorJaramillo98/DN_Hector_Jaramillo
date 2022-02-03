@@ -61,6 +61,10 @@ namespace GymManager.Web
 
             services.AddTransient<IMembershipTypeAppService, MembershipTypeAppService>();
 
+            services.AddTransient<ICityAppService, CityAppService>();
+
+            services.AddTransient<IRepository<int, City>, CityRepository>();
+
             services.AddTransient<IEquipmentAppService, EquipmentAppService>();
 
             services.AddTransient<IRepository<int, Member>, MembersRepository>();
