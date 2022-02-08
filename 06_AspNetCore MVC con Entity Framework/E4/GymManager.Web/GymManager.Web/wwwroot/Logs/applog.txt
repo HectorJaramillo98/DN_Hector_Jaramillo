@@ -110,3 +110,7 @@
 2022-02-03 10:26:03.923 -08:00 [INF] Index in Members executed
 2022-02-03 10:26:11.321 -08:00 [INF] Index in Members executed
 2022-02-03 10:26:15.423 -08:00 [INF] Index in Members executed
+2022-02-04 02:12:10.220 -08:00 [INF] Index in Members executed
+2022-02-06 14:13:05.659 -08:00 [INF] Index in Members executed
+2022-02-06 14:13:12.245 -08:00 [INF] Index in Members executed
+2022-02-06 15:48:57.550 -08:00 [INF] Index in Members executed

@@ -5014,3 +5014,5 @@ C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Fra
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymManager.Web.dll
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
 C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\RdlCompile.cache
+C:\Users\hecto\Source\Repos\DN_Hector_Jaramillo\06_AspNetCore MVC con Entity Framework\E4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\RdlCompile.compiled

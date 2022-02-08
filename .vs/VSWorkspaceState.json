@@ -5,13 +5,12 @@
     "\\06_AspNetCore MVC con Entity Framework\\E4",
     "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web",
     "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess",
-    "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.DataAccess\\Repositories",
     "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web",
     "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Controllers",
-    "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Models",
+    "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Reports",
     "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Views",
     "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Views\\Members"
   ],
-  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Controllers\\MembersController.cs",
+  "SelectedNode": "\\06_AspNetCore MVC con Entity Framework\\E4\\GymManager.Web\\GymManager.Web\\Reports\\Attendance.rdlc",
   "PreviewInSolutionExplorer": false
 }

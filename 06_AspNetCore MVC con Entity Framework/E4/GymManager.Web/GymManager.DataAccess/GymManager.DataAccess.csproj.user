@@ -2,7 +2,13 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <None Update="Reports\CheckingDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Update="Reports\MembersDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Reports\MostCheckDataSet.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>

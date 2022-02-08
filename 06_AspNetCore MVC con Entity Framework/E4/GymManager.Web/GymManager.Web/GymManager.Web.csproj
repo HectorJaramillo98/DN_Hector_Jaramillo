@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Reports\Attendance.rdlc" />
     <None Remove="Reports\NewMembers.rdlc" />
     <None Remove="Rotativa\Linux\wkhtmltopdf" />
     <None Remove="Rotativa\Mac\wkhtmltopdf" />
@@ -24,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Reports\Attendance.rdlc" />
     <EmbeddedResource Include="Reports\NewMembers.rdlc" />
   </ItemGroup>
 

@@ -19,17 +19,35 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Reports\CheckingDataSet.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CheckingDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Update="Reports\MembersDataSet.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>MembersDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Update="Reports\MostCheckDataSet.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>MostCheckDataSet.xsd</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Reports\CheckingDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CheckingDataSet.Designer.cs</LastGenOutput>
+    </None>
     <None Update="Reports\MembersDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>MembersDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Reports\MostCheckDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MostCheckDataSet.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
 

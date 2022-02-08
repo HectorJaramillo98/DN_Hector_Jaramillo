@@ -1,4 +1,6 @@
-﻿using GymManager.DataAccess.Reports;
+﻿using GymManager.Core.AttendanceReport;
+using GymManager.DataAccess;
+using GymManager.DataAccess.Reports;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Reporting.NETCore;
@@ -73,5 +75,72 @@ namespace GymManager.Web.Controllers
 
             return File(streamBytes, mimeType, $"{reportName}.{filenameExtension}");
         }
+
+        public IActionResult Attendance()
+        {
+            
+
+            string path = System.IO.Path.Combine(_enviroment.ContentRootPath, "Reports\\Attendance.rdlc");
+            Stream reportDefinition = System.IO.File.OpenRead(path);
+
+            LocalReport report = new LocalReport();
+            report.EnableExternalImages = true;
+            report.LoadReportDefinition(reportDefinition);
+
+            MostCheckDataSet dataSet = new MostCheckDataSet();
+            CheckingDataSet dataSet2 = new CheckingDataSet();
+            Random random = new Random();
+
+            string[] membershipTypes = new string[] { "Basic", "Family", "Gold" };
+            ProcedureReport procedureReport = new ProcedureReport();
+
+            
+
+            List<CheckSQL> memberAssistsList = procedureReport.MemberChecks();
+            for (int i = 0; i < memberAssistsList.Count; i++)
+            {
+                MostCheckDataSet.MemberChecksRow row = dataSet.MemberChecks.NewMemberChecksRow();
+
+                row.Id = i+1;
+
+                row.Name = memberAssistsList[i].MemberName;
+
+                row.LastName = memberAssistsList[i].MemberLastName;
+
+                row.Checks = memberAssistsList[i].Checks;
+
+                dataSet.MemberChecks.Rows.Add(row);
+            }
+            List<WeekChecks> weekChecksList = procedureReport.LastWeekChecks();
+            for (int i = 0; i < weekChecksList.Count; i++)
+            {
+                CheckingDataSet.CheckForDayRow row = dataSet2.CheckForDay.NewCheckForDayRow();
+                row.Date = weekChecksList[i].DateDay;
+                row.CheckCount = weekChecksList[i].CountChecks;
+
+                dataSet2.CheckForDay.Rows.Add(row);
+            }
+            byte[] streamBytes = null;
+            string mimeType = "";
+            string encoding = "";
+            string filenameExtension = "pdf";
+            string reportName = "MemberChecks";
+            string[] streamids = null;
+            Warning[] warnings = null;
+
+            report.SetParameters(new ReportParameter[] {
+                new ReportParameter("DateFrom", DateTime.Today.AddDays(-10).ToString()),
+                new ReportParameter("DateTo", DateTime.Today.ToString())
+            });
+
+            report.DataSources.Add(new ReportDataSource("MemberChecks", (System.Data.DataTable)dataSet.MemberChecks));
+            report.DataSources.Add(new ReportDataSource("CheckForDay", (System.Data.DataTable)dataSet2.CheckForDay));
+
+            streamBytes = report.Render("PDF", null, out mimeType, out encoding, out filenameExtension, out streamids, out warnings);
+
+            return File(streamBytes, mimeType, $"{reportName}.{filenameExtension}");
+        }
+
+
     }
 }

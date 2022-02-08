@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CheckingDataSet" targetNamespace="http://tempuri.org/CheckingDataSet.xsd" xmlns:mstns="http://tempuri.org/CheckingDataSet.xsd" xmlns="http://tempuri.org/CheckingDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CheckingDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="CheckingDataSet" msprop:Generator_UserDSName="CheckingDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CheckForDay" msprop:Generator_TableClassName="CheckForDayDataTable" msprop:Generator_TableVarName="tableCheckForDay" msprop:Generator_TablePropName="CheckForDay" msprop:Generator_RowDeletingName="CheckForDayRowDeleting" msprop:Generator_RowChangingName="CheckForDayRowChanging" msprop:Generator_RowEvHandlerName="CheckForDayRowChangeEventHandler" msprop:Generator_RowDeletedName="CheckForDayRowDeleted" msprop:Generator_UserTableName="CheckForDay" msprop:Generator_RowChangedName="CheckForDayRowChanged" msprop:Generator_RowEvArgName="CheckForDayRowChangeEvent" msprop:Generator_RowClassName="CheckForDayRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:string" minOccurs="0" />
+              <xs:element name="CheckCount" msprop:Generator_ColumnVarNameInTable="columnCheckCount" msprop:Generator_ColumnPropNameInRow="CheckCount" msprop:Generator_ColumnPropNameInTable="CheckCountColumn" msprop:Generator_UserColumnName="CheckCount" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

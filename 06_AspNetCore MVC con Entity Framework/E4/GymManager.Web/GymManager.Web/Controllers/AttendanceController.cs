@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using GymManager.Core.AttendanceReport;
+using GymManager.DataAccess;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace GymManager.Web.Controllers
 {
@@ -11,6 +14,7 @@ namespace GymManager.Web.Controllers
 
         public IActionResult MemberIn()
         {
+
             return View();
         }
 
